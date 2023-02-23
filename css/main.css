@@ -1,0 +1,61 @@
+.navbar{
+    background-color: rgb(55, 6, 6);
+    
+}
+.container h1{
+    color: #fff;
+}
+.container a{
+    color: #fff;
+}
+.container a:hover{
+color: #fff;
+}
+.container h1:hover{
+    color: #fff;
+}
+.container .nav .nav-link.active{
+    background-color: #876565;
+}
+.container .navbar-toggler{
+    background-color: #fff;
+}
+#menu-carousel img{
+    width: 100%;
+}
+.section-title{
+    font-family: 'Mynerve', cursive;
+ 
+}
+header .container h1{
+    font-size: 2em;
+}
+#sobre-o-restaurante{
+    background-color: rgb(250, 229, 229);
+}
+.text-color{
+    color:rgb(55, 6, 6 );
+}
+
+.nav-cardapio .nav-link{
+   color: #e67979;
+}
+.nav-cardapio .nav-link:hover{
+    color: #ed8c8c;
+}
+#cardapio{
+    background-color: #e9dcdc;
+}
+#fale-conosco{
+    background-color: #d5b4b4;
+}
+#fale-conosco button{
+    background-color: #876565;
+}
+#fale-conosco ul li{
+    list-style: none;
+    display: inline;
+}
+#fale-conosco a{
+    text-decoration: none;
+}
